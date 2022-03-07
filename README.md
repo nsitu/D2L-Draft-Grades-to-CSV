@@ -9,5 +9,5 @@ A JavaScript Tool to Retrieve Draft Assignment Grades in CSV form from D2L
 4. Click on the first Submission to open the iterator  
     (You should see User 1 of 25 in the top right.)  
 5. Open the browser console: press Ctrl+Shift+J (or Cmd+Shift+J on a Mac)  
-6. Copy and Paste in the Code below  
+6. Copy and Paste the contents of script.js into the console and press Return/Enter  
 7. JavaScript iterates over each student and downoads a CSV when finished.  

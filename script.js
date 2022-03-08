@@ -147,7 +147,7 @@ function generateCSV(grades){
     document.body.removeChild(downloadLink);    
 }
 
-theProcess = setInterval(processStudent, 100);
+theProcess = setInterval(processStudent, 250);
 
 
 
